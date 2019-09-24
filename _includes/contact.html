@@ -1,34 +1,21 @@
-<address class="contact">
-  <strong>{{site.data.settings.client.name}}</strong>
-  {% if site.data.settings.client.brand and site.data.settings.client.brokerage == null %}
-    <br>
-    {{site.data.settings.client.address}}
-    <br>
-  {% elsif site.data.settings.client.brand == null %}
-    <br>
-    {{site.data.settings.client.brokerage}}
-    <br>
-    {{site.data.settings.client.address}}
-    <br>
-  {% elsif site.data.settings.client.brokerage == null %}
-    <br>
-    {{site.data.settings.client.brand}}
-    <br>
-    {{site.data.settings.client.address}}
-    <br>
-  {% else %}
-    <br>
-    {{site.data.settings.client.brand}}
-    <br>
-    {{site.data.settings.client.brokerage}}
-    <br>
-    {{site.data.settings.client.address}}
-    <br>
-  {% endif %}
-  <a href="tel:1-{{site.data.settings.client.phone}}">{{site.data.settings.client.phone}}</a>
-  <br>
-  <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>
-</address>
+<p class="contact">
+  <strong>Katrina Madewell</strong><br>
+  Keller Williams Realty<br>
+  18302 Highwoods Preserve Pkwy #110<br>
+  Tampa, FL 33647<br>
+  Office: <a href="tel:1-813-936-2302">813-936-2302</a><br>
+  Cell: <a href="tel:1-813-777-1196">813-777-1196</a><br>
+  Email: <a href="mailto:KatrinaMadewell@gmail.com">KatrinaMadewell@gmail.com</a><br><br>
+
+  <strong>Tampa Home Talk</strong><br>
+  Fridays at 8 AM & 9 AM EST on Money Talk 1010 AM, 99.5 HD(2) or 103.1 FM<br>
+  Oak Ridge Professional Park<br>
+  23526 State Road 54<br>
+  Lutz, FL 33559<br>
+  Email: <a href="mailto:tampahometalk@gmail.com">tampahometalk@gmail.com</a><br>
+  Website: <a href="https://TampaHomeTalk.com" target="_blank">TampaHomeTalk.com</a>
+
+</p>
 
 <form class="contact-form" method="post" action="https://formspree.io/{{site.data.settings.client.email}}">
   <input type="text" name="name" placeholder="Name" required>
