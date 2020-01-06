@@ -18,7 +18,9 @@ youtube_code: Y8XltVS0Has
 
 {% include youtube.html %}
 
-There has been a lot of talk around our office lately about pocket listings.
+<center><em>Do you know what a pocket listing is, or why a home seller would choose this route to get their home sold? We’re answering both questions today.</em></center>
+
+<br>There has been a lot of talk around our office lately about pocket listings.
 
 A pocket listing is when an agent signs a listing agreement with the seller, but the home isn’t live on the MLS. A lot of times, there isn’t even a sign on the property yet.
 
