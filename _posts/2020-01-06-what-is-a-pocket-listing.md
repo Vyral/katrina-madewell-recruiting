@@ -18,7 +18,7 @@ youtube_code: Y8XltVS0Has
 
 {% include youtube.html %}
 
-<center><em>Do you know what a pocket listing is, or why a home seller would choose this route to get their home sold? We’re answering both questions today.</em></center>
+<center><em>Do you know what a pocket listing is, or why a home seller would choose this route to get their home sold? We&rsquo;re answering both questions today.</em></center>
 
 <br>There has been a lot of talk around our office lately about pocket listings.
 
