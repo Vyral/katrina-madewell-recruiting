@@ -6,7 +6,7 @@ tags:
   - Transaction Management
 excerpt: >-
   Do you know what a pocket listing is, or why a home seller would choose this
-  route to get their home sold? We’re answering both questions today.
+  route to get their home sold?
 enclosure:
 pullquote: Pocket listings take a lot of pressure off sellers.
 enclosure_type: video/mp4
