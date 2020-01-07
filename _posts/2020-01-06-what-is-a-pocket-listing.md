@@ -24,9 +24,9 @@ youtube_code: Y8XltVS0Has
 
 A pocket listing is when an agent signs a listing agreement with the seller, but the home isn’t live on the MLS. A lot of times, there isn’t even a sign on the property yet.
 
-**One of the reasons why a seller wouldn’t want their listing live is to have time to get it properly prepared**. Another reason why sellers choose to remain a pocket listings is because it’s a high-profile seller, like a professional athlete or celebrity. They want us to try and find a qualified buyer on our own through our network of buyers and agents without having to publicize it through the media.
+**One of the reasons why a seller wouldn’t want their listing live is to have time to get it properly prepared**. Another reason why sellers choose to keep their home as a pocket listing is because they're a high-profile seller, like a professional athlete or celebrity. They want us to try and find a qualified buyer on our own through our network of buyers and agents without having to publicize it through the media.
 
-**Pocket listings take a lot of pressure off sellers in terms of having to show the property frequently or pressure to respond to an offer quickly**. Sometimes, the seller is even looking to find a new property and want to identify that before they put their current home on the open market.
+**Pocket listings take a lot of pressure off sellers in terms of having to show the property frequently or to respond to an offer quickly**. Sometimes, the seller is even looking to find a new property and wants to identify that before they put their current home on the open market.
 
 {% include pullquote.html %}
 
