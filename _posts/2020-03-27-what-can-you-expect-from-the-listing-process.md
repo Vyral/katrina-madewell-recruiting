@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can You Expect From the Listing Process?
-date: 2020-03-27 16:04:31
+date: 2020-03-27 16:04:00
 tags:
 excerpt: >-
   Listing Manager Chelsea Kunkel joins me to expand a bit on how she helps
@@ -27,7 +27,7 @@ Normally, our listing manager Chelsea Kunkel is busy coordinating the listing pr
 
 At this point, the torch is passed on to Chelsea, who then, with our stager, Kim, does another walk-through of your home. This ensures that a second set of eyes reviews your home so that nothing was missed. Also, the perspective of a professional stager opens up so much more potential for how well your home can show.&nbsp;
 
-From there, Chelsea acts a vital liaison, executing the grand plan that we craft as a team. We pick a target date to go live on the market and narrow down the repairs or changes necessary to maximize your home sale. Chelsea comes in beautifully and works with you through the completion of that checklist.&nbsp;
+From there, Chelsea acts as a vital liaison, executing the grand plan that we craft as a team. We pick a target date to go live on the market and narrow down the repairs or changes necessary to maximize your home sale. Chelsea comes in and works with you through the completion of that checklist.&nbsp;
 
 She also helps coordinate professional photography, which is instrumental in your home making a great first impression online.&nbsp;
 
